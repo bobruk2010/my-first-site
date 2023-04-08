@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-image: url(./resources/images/backgound.jpeg);
+    background-size: cover;
+}
+
+h2 {
+    color: rgb(238, 255, 0);
+    text-align: center;
+}
+
+p {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+
